@@ -11,12 +11,12 @@
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-.container {
+.modal-container {
     background-color: #fff;
-    width: 60%;
-    height: 60%;
+    width: 40%;
+    height: auto;
     border-radius: 10px;
-    padding: 5px;
+    padding: 20px;
 }
 
 .close {
